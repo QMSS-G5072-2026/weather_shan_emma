@@ -1,6 +1,6 @@
 # weather_qs2314
 
-A package for doing great things!
+A package for weather data processing
 
 ## Installation
 
