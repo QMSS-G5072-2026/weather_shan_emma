@@ -1,10 +1,10 @@
 # weather_qs2314
 
-A package for weather data processing
+A Python package for cleaning, summarizing, and converting weather temperature data.
 
 [![ci](https://github.com/QMSS-G5072-2026/weather_shan_emma/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/QMSS-G5072-2026/weather_shan_emma/actions/workflows/ci.yml)
 
-A Python package for cleaning, summarizing, and converting weather temperature data.
+
 
 ## Installation
 
