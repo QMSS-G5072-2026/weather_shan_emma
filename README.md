@@ -2,6 +2,10 @@
 
 A package for weather data processing
 
+[![ci](https://github.com/QMSS-G5072-2026/weather_shan_emma/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/QMSS-G5072-2026/weather_shan_emma/actions/workflows/ci.yml)
+
+A Python package for cleaning, summarizing, and converting weather temperature data.
+
 ## Installation
 
 ```bash
@@ -35,8 +39,3 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 `weather_qs2314` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `qmss-pkgs-cookiecutter` [template](https://github.com/QMSS-G5072-2026/qmss-pkgs-cookiecutter), a uv-based fork of [`py-pkgs-cookiecutter`](https://github.com/py-pkgs/py-pkgs-cookiecutter).
 
-# weather_qs2314
-
-[![ci](https://github.com/QMSS-G5072-2026/weather_shan_emma/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/QMSS-G5072-2026/weather_shan_emma/actions/workflows/ci.yml)
-
-A Python package for cleaning, summarizing, and converting weather temperature data.
